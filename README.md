@@ -1,2 +1,7 @@
 # Xsolla-Gold
-https://x.la/gold https://x.la/gold#direct-top-up
+# Home:
+https://wallet.xsolla.com/
+https://x.la/gold
+
+# Deposit:
+https://x.la/gold#direct-top-up
